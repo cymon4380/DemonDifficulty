@@ -1,0 +1,5 @@
+name: DemonDifficulty
+version: '${project.version}'
+main: ebariktv2004.demondifficulty
+api-version: 1.19
+authors: [ Cymon ]
