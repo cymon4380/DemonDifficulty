@@ -1,0 +1,24 @@
+# DemonDifficulty
+
+Демоническая сложность в Minecraft.
+Идея позаимствована у [Fundy](https://youtube.com/c/Fundy).
+
+<hr>
+
+## Установка плагина
+#### Плагин работает на версии `1.19`.
+
+1. Скачайте подходящее ядро ([Spigot](https://download.getbukkit.org/spigot/spigot-1.19.jar) или [Paper](https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar)).
+2. Запустите сервер, а после полной загрузки выключите его.
+3. Поместите файл `DemonDifficulty-(версия).jar` в папку `plugins`.
+4. Для большей сложности в файле `server.properties` установите значение `difficulty` на `hard`.
+5. Повторите действия из пункта 2.
+6. В папке `plugins` появится папка `DemonDifficulty`. Зайдя в неё, в файле `config.yml` укажите число от `0` до `4` - это будет сложность плагина от Easy Demon до Extreme Demon.
+7. Запустите сервер и дождитесь его полной загрузки.
+
+**Готово! Удачной игры ;)**
+
+<hr>
+
+Таблицу сложности вы можете посмотреть в файле `table.png`.
+
